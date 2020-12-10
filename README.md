@@ -1,4 +1,5 @@
-# Trabalho de sockets
+# Avaliação 3 - socket tcp/udp
+
 Trabalho de sockets da disciplina de redes 1 na UESC
 
 Consiste em um servidor UDP escrito em javascript e um client UDP escrito em python
